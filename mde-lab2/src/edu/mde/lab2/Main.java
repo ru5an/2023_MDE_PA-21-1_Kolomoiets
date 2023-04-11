@@ -1,4 +1,4 @@
-
+// Комент для Git
 package edu.mde.lab2;
 
 import java.text.NumberFormat;
